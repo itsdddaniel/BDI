@@ -8,4 +8,4 @@ Repositorio del contenido de la clase Base de Datos I - I PAC 2021 de la Univers
 
 # Content
 
-Repository of all the content seen in the class of Data Bases I - I PAC 2021 of National Autonomous University of Honduras (NAUH).
+Repository of all the content seen in the class of Data Bases I - I PAC 2021 of the National Autonomous University of Honduras (NAUH).
